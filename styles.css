@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#nav_bar {
+  background-color: #1f2937;
+}
+
+main {
+  background-color: #1f2937;
+  height: 500px;
+  width: 100%;
+}
+
+#info {
+  height: 500px;
+}
+
+#quotes {
+  background-color: #ede7eb;
+  height: 500px;
+}
+
+footer {
+  background-color: #fff;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#signup_box {
+  background-color: #3882f6;
+  height: 100px;
+  width: 75%;
+  border-radius: 5px;
+}
