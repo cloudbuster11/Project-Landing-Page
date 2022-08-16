@@ -180,6 +180,7 @@ footer {
   align-items: center;
 }
 
-#footer_content {
+#footer_text {
   color: #f9faf8;
+  padding: 3em;
 }
